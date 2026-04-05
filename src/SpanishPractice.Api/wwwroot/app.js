@@ -82,10 +82,6 @@ function renderImportView() {
   const uploadForm = fragment.getElementById('upload-form');
   const fileInput = fragment.getElementById('file-input');
   const importPreview = fragment.getElementById('import-preview');
-  const categoryForm = fragment.getElementById('import-category-form');
-
-  categoryForm.innerHTML = buildCategoryField('', 'import');
-  wireCategoryCreator(categoryForm);
 
   uploadForm.addEventListener('submit', async (event) => {
     event.preventDefault();
@@ -93,8 +89,9 @@ function renderImportView() {
     const file = fileInput.files[0];
     if (!file) return;
 
-    if (!file.name.toLowerCase().endsWith('.docx')) {
-      importPreview.innerHTML = '<p class="feedback-bad">Please choose a .docx file.</p>';
+    const lowerName = file.name.toLowerCase();
+    if (!lowerName.endsWith('.csv') && !lowerName.endsWith('.docx')) {
+      importPreview.innerHTML = '<p class="feedback-bad">Please choose a .csv or .docx file.</p>';
       return;
     }
 
@@ -110,17 +107,12 @@ function renderImportView() {
         return;
       }
 
-      importPreview.innerHTML = `<div class="word-item"><strong>${preview.pairs.length}</strong> cards detected in ${escapeHtml(preview.originalFileName)}</div><button id="commit-import">Import these cards</button>`;
+      const categories = [...new Set(preview.pairs.map(x => x.category).filter(Boolean))];
+      importPreview.innerHTML = `<div class="word-item"><strong>${preview.pairs.length}</strong> cards detected in ${escapeHtml(preview.originalFileName)}</div><div class="word-item">Categories: ${escapeHtml(categories.join(', ') || 'Imported')}</div><button id="commit-import">Import these cards</button>`;
 
       const commitButton = importPreview.querySelector('#commit-import');
       if (commitButton) {
         commitButton.addEventListener('click', async () => {
-          const categoryId = categoryForm.querySelector('[name="categoryId"]').value;
-          if (!categoryId) {
-            alert('Pick a category first.');
-            return;
-          }
-
           commitButton.disabled = true;
           commitButton.textContent = 'Importing…';
 
@@ -128,7 +120,7 @@ function renderImportView() {
             const commit = await api('/api/imports/commit', {
               method: 'POST',
               headers: { 'Content-Type': 'application/json' },
-              body: JSON.stringify({ importId: preview.importId, pairs: preview.pairs, categoryId })
+              body: JSON.stringify({ importId: preview.importId, pairs: preview.pairs })
             });
 
             importPreview.innerHTML = `<p class="feedback-good">Imported ${commit.imported} cards.</p>`;

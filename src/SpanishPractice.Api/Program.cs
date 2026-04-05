@@ -256,9 +256,10 @@ app.MapPost("/api/imports/preview", async (HttpRequest request, IOptions<AppOpti
         return Results.BadRequest(new { message = "Empty file." });
     }
 
-    if (!Path.GetExtension(file.FileName).Equals(".docx", StringComparison.OrdinalIgnoreCase))
+    var extension = Path.GetExtension(file.FileName);
+    if (!extension.Equals(".docx", StringComparison.OrdinalIgnoreCase) && !extension.Equals(".csv", StringComparison.OrdinalIgnoreCase))
     {
-        return Results.BadRequest(new { message = "Only .docx files are supported." });
+        return Results.BadRequest(new { message = "Only .docx and .csv files are supported." });
     }
 
     var uploadsPath = Path.Combine(app.Environment.ContentRootPath, options.Value.UploadsPath);
@@ -296,15 +297,40 @@ app.MapPost("/api/imports/commit", async (ImportCommitRequest request, AppDbCont
 
     if (request.Pairs.Count == 0)
     {
-        return Results.BadRequest(new { message = "No pairs supplied." });
+        return Results.BadRequest(new { message = "No rows supplied." });
     }
 
-    var category = await GetCategoryAsync(request.CategoryId, dbContext, cancellationToken);
+    var categoryNames = request.Pairs
+        .Select(x => x.Category?.Trim())
+        .Where(x => !string.IsNullOrWhiteSpace(x))
+        .Distinct(StringComparer.OrdinalIgnoreCase)
+        .ToList();
+
+    if (categoryNames.Count == 0)
+    {
+        return Results.BadRequest(new { message = "Each imported row needs a category." });
+    }
+
+    var existingCategories = await dbContext.Categories
+        .Where(x => categoryNames.Contains(x.Name))
+        .ToListAsync(cancellationToken);
+
+    foreach (var missingName in categoryNames.Where(name => existingCategories.All(x => !string.Equals(x.Name, name, StringComparison.OrdinalIgnoreCase))))
+    {
+        var category = new Category { Name = missingName! };
+        dbContext.Categories.Add(category);
+        existingCategories.Add(category);
+    }
+
+    await dbContext.SaveChangesAsync(cancellationToken);
+
+    var categoryLookup = existingCategories.ToDictionary(x => x.Name, StringComparer.OrdinalIgnoreCase);
     var existingKeys = await dbContext.WordEntries
         .Include(x => x.Variants)
         .AsNoTracking()
         .Select(x => new
         {
+            CategoryId = x.CategoryId,
             English = x.Variants.Where(v => v.Language == AnswerLanguage.English).OrderBy(v => v.SortOrder).Select(v => v.NormalizedText).FirstOrDefault(),
             Spanish = x.Variants.Where(v => v.Language == AnswerLanguage.Spanish).OrderBy(v => v.SortOrder).Select(v => v.NormalizedText).FirstOrDefault(),
         })
@@ -313,9 +339,21 @@ app.MapPost("/api/imports/commit", async (ImportCommitRequest request, AppDbCont
     var newWords = new List<WordEntry>();
     foreach (var pair in request.Pairs)
     {
-        var normalizedEnglish = normalizer.Normalize(pair.English);
-        var normalizedSpanish = normalizer.Normalize(pair.Spanish);
-        if (existingKeys.Any(x => x.English == normalizedEnglish && x.Spanish == normalizedSpanish))
+        if (!categoryLookup.TryGetValue(pair.Category, out var category))
+        {
+            continue;
+        }
+
+        var englishAnswers = CleanAnswers(new[] { pair.English }.Concat(pair.AdditionalEnglishAnswers));
+        var spanishAnswers = CleanAnswers(new[] { pair.Spanish }.Concat(pair.AdditionalSpanishAnswers));
+        if (englishAnswers.Count == 0 || spanishAnswers.Count == 0)
+        {
+            continue;
+        }
+
+        var normalizedEnglish = normalizer.Normalize(englishAnswers[0]);
+        var normalizedSpanish = normalizer.Normalize(spanishAnswers[0]);
+        if (existingKeys.Any(x => x.CategoryId == category.Id && x.English == normalizedEnglish && x.Spanish == normalizedSpanish))
         {
             continue;
         }
@@ -326,17 +364,19 @@ app.MapPost("/api/imports/commit", async (ImportCommitRequest request, AppDbCont
             CategoryId = category.Id,
             Pronunciation = NullIfWhitespace(pair.Pronunciation),
             Comment = NullIfWhitespace(pair.Comment),
-            Gender = GenderType.NotApplicable,
-            Number = NumberType.NotApplicable,
-            State = StateType.NotApplicable,
-            Variants = BuildVariants(new List<string> { pair.English }, new List<string> { pair.Spanish }, normalizer),
+            AllowReverse = true,
+            Gender = (GenderType)pair.Gender,
+            Number = (NumberType)pair.Number,
+            State = (StateType)pair.State,
+            Variants = BuildVariants(englishAnswers, spanishAnswers, normalizer),
+            Examples = BuildExamples(pair.Examples ?? []),
         });
     }
 
     dbContext.WordEntries.AddRange(newWords);
     import.ImportedCount = newWords.Count;
     import.Status = ImportStatus.Completed;
-    import.Notes = $"Imported {newWords.Count} pairs.";
+    import.Notes = $"Imported {newWords.Count} rows.";
     await dbContext.SaveChangesAsync(cancellationToken);
 
     return Results.Ok(new { imported = newWords.Count, totalSubmitted = request.Pairs.Count });
