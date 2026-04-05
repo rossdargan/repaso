@@ -1,0 +1,12 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.db
+*.db-shm
+*.db-wal
+data/
+.env
+src/SpanishPractice.Api/wwwroot/uploads/*
+!src/SpanishPractice.Api/wwwroot/uploads/.gitkeep

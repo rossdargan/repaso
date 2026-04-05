@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Repaso</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="hero">
+      <div>
+        <div class="brand-row">
+          <img src="/logo-repaso.svg" alt="Repaso logo" class="brand-logo" />
+          <div>
+            <p class="eyebrow">Repaso</p>
+            <h1 id="hero-phrase">Hola, ¿cómo estás?</h1>
+          </div>
+        </div>
+        <p class="sub">A flashcard trainer for Spanish meanings, forms, expressions and grammar context.</p>
+      </div>
+      <div class="hero-stats" id="top-summary"></div>
+    </header>
+
+    <nav class="nav-tabs">
+      <a href="#/practice" data-route="practice">Practice</a>
+      <a href="#/weak-words" data-route="weak-words">Weak cards</a>
+      <a href="#/maintenance" data-route="maintenance">Maintenance</a>
+    </nav>
+
+    <main id="view-root"></main>
+  </div>
+
+  <template id="practice-view-template"><section class="card card-wide"><div class="practice-header"><h2>Practice</h2><div id="streak-banner" class="streak-banner hidden"></div></div><div id="practice-category-filter" class="stack practice-filter"></div><div id="question-panel" class="stack"><p class="muted">No question loaded yet.</p></div></section></template>
+  <template id="maintenance-view-template"><section class="card card-wide"><h2>Maintenance</h2><p class="muted">Manage cards and imports from here.</p><div class="maintenance-grid"><a class="maintenance-card" href="#/add-cards"><strong>Add cards</strong><span class="muted">Create new flashcards quickly in one category.</span></a><a class="maintenance-card" href="#/edit-words"><strong>Edit cards</strong><span class="muted">Search and edit existing cards one at a time.</span></a><a class="maintenance-card" href="#/import"><strong>Import cards</strong><span class="muted">Upload a docx and assign it to a category.</span></a><a class="maintenance-card" id="download-cards-link" href="/api/words/export" download="repaso-word-list.csv"><strong>Download cards</strong><span class="muted">Export your current card list.</span></a><button type="button" id="reset-stats-button" class="maintenance-card danger"><strong>Reset stats</strong><span class="muted">Keep cards, but clear attempts and progress.</span></button><button type="button" id="wipe-database-button" class="maintenance-card danger"><strong>Wipe database</strong><span class="muted">Delete cards, categories, imports, and stats.</span></button></div></section></template>
+  <template id="add-cards-view-template"><section class="card card-wide"><div class="result-actions"><a href="#/maintenance" class="secondary back-link">← Back to maintenance</a></div><h2>Add cards</h2><p class="muted">Pick a category first, then add as many cards as you like without leaving the screen.</p><form id="add-card-form" class="edit-card stack"><div id="add-card-category-wrap"></div><div id="add-card-fields"></div><div id="add-card-status" class="muted"></div></form></section></template>
+  <template id="import-view-template"><section class="card card-wide"><div class="result-actions"><a href="#/maintenance" class="secondary back-link">← Back to maintenance</a></div><h2>Import cards</h2><p>Upload a <code>.docx</code> file with a two-column table or lines like <code>cat - gato</code>.</p><div id="import-category-form" class="edit-card stack"></div><form id="upload-form"><input id="file-input" type="file" accept=".docx" required /><button type="submit">Preview import</button></form><div id="import-preview" class="stack"></div></section></template>
+  <template id="weak-words-view-template"><section class="card card-wide"><h2>Weak cards</h2><div id="weak-words" class="stack"><p class="muted">No data yet.</p></div></section></template>
+  <template id="edit-words-view-template"><section class="card card-wide"><div class="result-actions"><a href="#/maintenance" class="secondary back-link">← Back to maintenance</a></div><h2>Edit cards</h2><p class="muted">Search cards, then open one card at a time for editing.</p><div class="edit-toolbar"><input id="word-search" type="search" placeholder="Search English, Spanish, category, pronunciation, comment…" /></div><div id="edit-words-count" class="muted"></div><div id="edit-words-list" class="stack"></div></section></template>
+  <template id="edit-word-detail-template"><section class="card card-wide"><div class="result-actions"><a href="#/edit-words" class="secondary back-link">← Back to cards</a></div><h2>Edit card</h2><form id="edit-word-detail-form" class="edit-card stack"><div id="edit-word-detail-fields"></div><div id="edit-word-detail-status" class="muted"></div><div class="result-actions"><button type="submit">Save</button><button type="button" id="delete-word-detail" class="danger">Delete</button></div></form></section></template>
+  <template id="question-template"><div class="stack question-stack"><p class="pill" data-direction></p><div class="muted question-category">Category: <strong data-category-name></strong></div><div class="attribute-row" data-attributes></div><div class="muted hidden" data-pronunciation></div><form id="answer-form" class="stack"><div class="translate-row"><div class="translate-source-wrap"><p class="muted">Translate</p><div class="translate-source" data-prompt></div></div><div class="translate-arrow">→</div><div class="translate-input-wrap"><label class="muted" for="answer-input">Your answer</label><input id="answer-input" name="answer" autocomplete="off" required /><div class="hidden" data-spanish-keys></div><p class="enter-hint">Press Enter to submit</p></div></div><div id="reverse-attributes" class="hidden stack"></div></form><div class="stack" data-examples></div><div id="close-match-actions" class="hidden stack"></div><div id="feedback" class="stack"></div></div></template>
+
+  <script src="/app.js"></script>
+</body>
+</html>

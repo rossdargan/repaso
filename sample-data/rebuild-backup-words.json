@@ -1,0 +1,6672 @@
+[
+  {
+    "english": "Juice",
+    "spanish": "Jugo",
+    "pronunciation": "who-go",
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Salad",
+    "spanish": "Ensalada",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "San dwich",
+    "spanish": "Sándwich",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Cheese",
+    "spanish": "Queso",
+    "pronunciation": "ke -so",
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "want",
+    "spanish": "quiero",
+    "pronunciation": null,
+    "comment": "I",
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Coffee",
+    "spanish": "Café",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "With",
+    "spanish": "Con",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To pay",
+    "spanish": "Pagar",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Without",
+    "spanish": "Sin",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Tomato",
+    "spanish": "Tomate",
+    "pronunciation": "To-ma- tay",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Salt",
+    "spanish": "Sal",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Burger",
+    "spanish": "Hamburguesa",
+    "pronunciation": "ahm -bur- guess -ah",
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Meat",
+    "spanish": "Carne",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Glass",
+    "spanish": "Vaso",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Bill",
+    "spanish": "Cuenta",
+    "pronunciation": "Qwenta",
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Fish",
+    "spanish": "Pescado",
+    "pronunciation": null,
+    "comment": "Dead/food",
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Rest aurant",
+    "spanish": "Restaurante",
+    "pronunciation": "res·tau·ran·te",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "People",
+    "spanish": "Personas",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Of",
+    "spanish": "De",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Sugar",
+    "spanish": "Azúcar",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Cup",
+    "spanish": "Taza",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Interesting",
+    "spanish": "Interesante",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Father",
+    "spanish": "Padre",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Elegant",
+    "spanish": "Elegante",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Grandmother",
+    "spanish": "Abuela",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Dog",
+    "spanish": "Perro",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Grandfather",
+    "spanish": "Abuelo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Your",
+    "spanish": "Tu",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Car",
+    "spanish": "Carro",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "House",
+    "spanish": "Casa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Big",
+    "spanish": "Grande",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Sister",
+    "spanish": "Hermana",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Intelligent",
+    "spanish": "Inteligente",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Very",
+    "spanish": "Muy",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "has",
+    "spanish": "Tiene",
+    "pronunciation": null,
+    "comment": "She",
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Daughter",
+    "spanish": "Hija",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Son",
+    "spanish": "Hijo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "have",
+    "spanish": "Tienes",
+    "pronunciation": null,
+    "comment": "You",
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Brother",
+    "spanish": "Hermano",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Mother",
+    "spanish": "Madre",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Bicycle",
+    "spanish": "Bicicleta",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Pretty",
+    "spanish": "Bonitoo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Pretty",
+    "spanish": "Bonitoa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Husband",
+    "spanish": "Esposo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Cat",
+    "spanish": "Gato",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Perfect",
+    "spanish": "Perfectoo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Perfect",
+    "spanish": "Perfectoa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Family",
+    "spanish": "Familia",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Wife",
+    "spanish": "Esposa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Apartment",
+    "spanish": "Apartamento",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Speak",
+    "spanish": "Hablo",
+    "pronunciation": null,
+    "comment": "I",
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Speak",
+    "spanish": "Túhablas",
+    "pronunciation": null,
+    "comment": "You",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "live",
+    "spanish": "vivo",
+    "pronunciation": null,
+    "comment": "I",
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Here",
+    "spanish": "Aquí",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Cheap",
+    "spanish": "Barato",
+    "pronunciation": null,
+    "comment": "masc & singular",
+    "formLabel": "singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Jacket",
+    "spanish": "Chaqueta",
+    "pronunciation": "Cha- ke -ta",
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Coat",
+    "spanish": "Abrigo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Hat",
+    "spanish": "Sombrero",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Expensive",
+    "spanish": "Caro",
+    "pronunciation": null,
+    "comment": "masc & singular",
+    "formLabel": "singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Different",
+    "spanish": "Diferente",
+    "pronunciation": "Di -fay-ren- tay",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "T-Shirt",
+    "spanish": "Camiseta",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To buy",
+    "spanish": "Comprar",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Clothes",
+    "spanish": "Ropa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Shirt",
+    "spanish": "Camisa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Gift",
+    "spanish": "Regalo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Comfortable",
+    "spanish": "Cómoda",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Gray",
+    "spanish": "Gris",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Brown",
+    "spanish": "Marr ó n",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "This",
+    "spanish": "Este",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "m",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Dre ss",
+    "spanish": "Vestido",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Skirt",
+    "spanish": "Falda",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Blue",
+    "spanish": "Azul",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Purse",
+    "spanish": "Cart era",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Belt",
+    "spanish": "Cint ur ó n",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To be",
+    "spanish": "Estar",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "am",
+    "spanish": "estoy",
+    "pronunciation": null,
+    "comment": "I; imp",
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "a re",
+    "spanish": "estás",
+    "pronunciation": null,
+    "comment": "You; imp",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "i s",
+    "spanish": "está",
+    "pronunciation": "Ella",
+    "comment": "She; imp",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "live",
+    "spanish": "vives",
+    "pronunciation": null,
+    "comment": "You",
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "lives",
+    "spanish": "vive",
+    "pronunciation": "Ella",
+    "comment": "She",
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To drink",
+    "spanish": "Beber",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "wants",
+    "spanish": "quiere",
+    "pronunciation": "Ell a",
+    "comment": "She",
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "am",
+    "spanish": "soy",
+    "pronunciation": null,
+    "comment": "I",
+    "formLabel": "perm",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "are",
+    "spanish": "eres",
+    "pronunciation": null,
+    "comment": "You",
+    "formLabel": "perm",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Is",
+    "spanish": "es",
+    "pronunciation": "Ella",
+    "comment": "She",
+    "formLabel": "perm",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To speak",
+    "spanish": "Hablar",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "speaks",
+    "spanish": "habla",
+    "pronunciation": "Ella",
+    "comment": "She",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Shop",
+    "spanish": "Tienda",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Red",
+    "spanish": "Rojo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Favourite",
+    "spanish": "Favorita",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Watch",
+    "spanish": "Reloj",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Too",
+    "spanish": "Demasiado",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Green",
+    "spanish": "Verde",
+    "pronunciation": "Ber-day",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Class",
+    "spanish": "Clase",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Student",
+    "spanish": "Estudiante",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Difficult",
+    "spanish": "Difícil",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Question",
+    "spanish": "Pregunta",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To Read",
+    "spanish": "Leer",
+    "pronunciation": "lay-air",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "s tudy",
+    "spanish": "estudias",
+    "pronunciation": null,
+    "comment": "You",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "University",
+    "spanish": "Universidad",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "A lot",
+    "spanish": "Mucho",
+    "pronunciation": null,
+    "comment": "singular & masculine e.g. mucho dinero",
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "write",
+    "spanish": "escribo",
+    "pronunciation": null,
+    "comment": "I",
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Teacher",
+    "spanish": "Maestro",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Exam",
+    "spanish": "Examen",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Important",
+    "spanish": "Importante",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Book",
+    "spanish": "Libro",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Pen",
+    "spanish": "Bolígrafo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "School",
+    "spanish": "Escuela",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "study",
+    "spanish": "estudio",
+    "pronunciation": null,
+    "comment": "I",
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Medicine",
+    "spanish": "Medicina",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To study",
+    "spanish": "Estudiar",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Understand",
+    "spanish": "Comprendo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "read",
+    "spanish": "leo",
+    "pronunciation": null,
+    "comment": "I",
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To write",
+    "spanish": "Escribir",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Problem",
+    "spanish": "Problema",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Easy",
+    "spanish": "Fácil",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Computer",
+    "spanish": "Computadora",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Hospital",
+    "spanish": "Hospital",
+    "pronunciation": "os -pee- tal",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "You are",
+    "spanish": "Eres",
+    "pronunciation": "same as Tú eres",
+    "comment": null,
+    "formLabel": "perm",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "I am called",
+    "spanish": "Mellamo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "United States",
+    "spanish": "Estado Unidos",
+    "pronunciation": "oo -knee-dos",
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Are you from",
+    "spanish": "¿Eres de xxxx ?",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Mexican",
+    "spanish": "Mexicanoo",
+    "pronunciation": "me -hi-ka-no /a",
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Mexican",
+    "spanish": "Mexicanoa",
+    "pronunciation": "me -hi-ka-no /a",
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Spain",
+    "spanish": "Espa ña",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Cuba",
+    "spanish": "Cuba",
+    "pronunciation": "Koo- ba",
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "China",
+    "spanish": "China",
+    "pronunciation": "ch ee-na",
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Where is xxx from?",
+    "spanish": "¿De dónde es xxx ?",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "How are you?",
+    "spanish": "¿Cómo estás ?",
+    "pronunciation": null,
+    "comment": "Infromal",
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Hasta luego",
+    "spanish": "Seeyoulater",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Miss",
+    "spanish": "Señorita",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Mr",
+    "spanish": "Señor",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Happy",
+    "spanish": "Feliz",
+    "pronunciation": null,
+    "comment": "singular",
+    "formLabel": "singular",
+    "gender": null,
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Good afternoon",
+    "spanish": "Buenas tardes",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "See you tomorrow",
+    "spanish": "Hasta mañana",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Good",
+    "spanish": "Bien",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Unwell",
+    "spanish": "Mal",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Lady",
+    "spanish": "Señora",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Mr Albert",
+    "spanish": "ElSeñor",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "You",
+    "spanish": "Usted",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "formal",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Mrs Sanchez",
+    "spanish": "La señora Sanchez",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Banana",
+    "spanish": "Banana",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "need",
+    "spanish": "necesitas",
+    "pronunciation": null,
+    "comment": "You",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "want",
+    "spanish": "quieres",
+    "pronunciation": null,
+    "comment": "You",
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "More",
+    "spanish": "Más",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Help",
+    "spanish": "Ayuda",
+    "pronunciation": "ah-you-da",
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To use",
+    "spanish": "Usar",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Tea",
+    "spanish": "Té",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "use",
+    "spanish": "usas",
+    "pronunciation": null,
+    "comment": "You",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "needs",
+    "spanish": "necesita",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "He",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "uses",
+    "spanish": "usa",
+    "pronunciation": "Ella",
+    "comment": null,
+    "formLabel": "Sh e",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "use",
+    "spanish": "Youso",
+    "pronunciation": null,
+    "comment": "I",
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Fun",
+    "spanish": "Divertidoo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Fun",
+    "spanish": "Divertidoa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Party",
+    "spanish": "Fiesta",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Today",
+    "spanish": "Hoy",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Monday",
+    "spanish": "Lunes",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Tuesday",
+    "spanish": "Martes",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Wednesday",
+    "spanish": "Miércoles",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Friday",
+    "spanish": "Viernes",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Saturday",
+    "spanish": "Sábado",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Sunday",
+    "spanish": "Domingo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Tomorrow",
+    "spanish": "Mañana",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Week",
+    "spanish": "Semana",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Enjoy",
+    "spanish": "Disfrutar",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Game",
+    "spanish": "Partido",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Football",
+    "spanish": "Fútbol",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "When",
+    "spanish": "Cuándo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Dance",
+    "spanish": "Baile",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "What",
+    "spanish": "Qué",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Day",
+    "spanish": "Dia",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Concert",
+    "spanish": "Concierto",
+    "pronunciation": "Con- zier -toe",
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Birthday",
+    "spanish": "Cumpleaños",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Baseball",
+    "spanish": "Béisbol",
+    "pronunciation": "bays- bol",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Movie",
+    "spanish": "Película",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Thursday",
+    "spanish": "Jueves",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Weekend",
+    "spanish": "Findesemana",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "England",
+    "spanish": "Inglaterra",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Who",
+    "spanish": "Quién",
+    "pronunciation": "key- ehn",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "work",
+    "spanish": "trabajas",
+    "pronunciation": null,
+    "comment": "You",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To eat",
+    "spanish": "Comer",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "studies",
+    "spanish": "estudia",
+    "pronunciation": "Ella",
+    "comment": "She",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "works",
+    "spanish": "trabaja",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "He",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Factory",
+    "spanish": "Fábrica",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Office",
+    "spanish": "Oficina",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Frace",
+    "spanish": "Francia",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Wine",
+    "spanish": "Vino",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "French",
+    "spanish": "Francés",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "London",
+    "spanish": "Londres",
+    "pronunciation": "lohn-drehs",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Europe",
+    "spanish": "Europa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Girlfriend",
+    "spanish": "Novia",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Young",
+    "spanish": "Joven",
+    "pronunciation": "ho -ben",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Boyfriend",
+    "spanish": "Novio",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Town",
+    "spanish": "Pueblo",
+    "pronunciation": "pweblo",
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Be",
+    "spanish": "Ser",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Number",
+    "spanish": "Número",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Waiter",
+    "spanish": "Camarero",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Waitress",
+    "spanish": "Camerera",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Cell phone",
+    "spanish": "Celular",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Doctor",
+    "spanish": "Médicoo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Doctor",
+    "spanish": "Médicoa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Animal",
+    "spanish": "Animal",
+    "pronunciation": "an-ee-mal",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "City",
+    "spanish": "Ciudad",
+    "pronunciation": "see-you-dad",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Librar y",
+    "spanish": "Bibliote ca",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "l earn s",
+    "spanish": "aprende",
+    "pronunciation": "Ella",
+    "comment": "She",
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To learn",
+    "spanish": "Aprender",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "learn",
+    "spanish": "aprendes",
+    "pronunciation": null,
+    "comment": "You",
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "This",
+    "spanish": "Esta",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "f",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Small",
+    "spanish": "Peque ñoo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Small",
+    "spanish": "Peque ñoa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Nice",
+    "spanish": "Simpáticoo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Nice",
+    "spanish": "Simpáticoa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Years",
+    "spanish": "Años",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Pet",
+    "spanish": "Mascota",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "You r",
+    "spanish": "Su",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "formal",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Italian",
+    "spanish": "Italianoo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Italian",
+    "spanish": "Italianoa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Short",
+    "spanish": "Bajoo",
+    "pronunciation": "ba -ha/ ho",
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Short",
+    "spanish": "Bajoa",
+    "pronunciation": "ba -ha/ ho",
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Tall",
+    "spanish": "Altoo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Tall",
+    "spanish": "Altoa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Rome",
+    "spanish": "Roma",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "learn",
+    "spanish": "aprendo",
+    "pronunciation": null,
+    "comment": "I",
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Children",
+    "spanish": "Hijos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Human",
+    "spanish": "Humanos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Child",
+    "spanish": "Hijo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Which",
+    "spanish": "Cuál",
+    "pronunciation": "can also mean what which we have already learned as Qué",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Boss",
+    "spanish": "Jefeo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Boss",
+    "spanish": "Jefea",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "The",
+    "spanish": "Las",
+    "pronunciation": null,
+    "comment": "feminine plural",
+    "formLabel": "feminine plural",
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "The",
+    "spanish": "Los",
+    "pronunciation": null,
+    "comment": "masculine plural",
+    "formLabel": "masculine plural",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Message",
+    "spanish": "Mensaje",
+    "pronunciation": "men- sah -heh",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To work",
+    "spanish": "Trabajar",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Business",
+    "spanish": "Negocio",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "New",
+    "spanish": "Nuevoo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "New",
+    "spanish": "Nuevoa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Little",
+    "spanish": "Poco",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Letter",
+    "spanish": "Carta",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "writes",
+    "spanish": "escribe",
+    "pronunciation": "Ella",
+    "comment": "She",
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Email address",
+    "spanish": "Correo electrónico",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "On Wed nesdays",
+    "spanish": "Losmiércoles",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "On Monday",
+    "spanish": "Ellunes",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "read",
+    "spanish": "lees",
+    "pronunciation": null,
+    "comment": "You",
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To have",
+    "spanish": "Tener",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Surprised",
+    "spanish": "Sorprendido",
+    "pronunciation": null,
+    "comment": "singular",
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Sometimes",
+    "spanish": "Aveces",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Sick",
+    "spanish": "Enfermoo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Sick",
+    "spanish": "Enfermoa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Never",
+    "spanish": "Nunca",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Worried",
+    "spanish": "Preocupado",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "How ’s it going?",
+    "spanish": "¿Qué tal ?",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Sad",
+    "spanish": "Triste",
+    "pronunciation": "Tris- tay",
+    "comment": "singular",
+    "formLabel": "singular",
+    "gender": null,
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "With me",
+    "spanish": "Conmigo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Why",
+    "spanish": "Porqué",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "With you",
+    "spanish": "Contigo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Me siento",
+    "spanish": "Ifeel",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Also",
+    "spanish": "Tambi én",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Baby",
+    "spanish": "Bebé",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To sleep",
+    "spanish": "Dormir",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "How",
+    "spanish": "Cómo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Always",
+    "spanish": "Siempre",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Happy",
+    "spanish": "Contenta",
+    "pronunciation": "there seem to be two words for happy, feliz and contenta",
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Again",
+    "spanish": "Otra vez",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "You feel",
+    "spanish": "Tesientes",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "reads",
+    "spanish": "lee",
+    "pronunciation": "Ella",
+    "comment": "She",
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Player",
+    "spanish": "Jugadora",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "How many",
+    "spanish": "Cuántos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "We",
+    "spanish": "Nosotras",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Now",
+    "spanish": "Ahora",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Vacation",
+    "spanish": "Vacaciones",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "You",
+    "spanish": "Ustedes",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": "You all"
+  },
+  {
+    "english": "study",
+    "spanish": "Estudiamos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "We",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "are",
+    "spanish": "Son",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "plural permanent",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Weekends",
+    "spanish": "Fines de semana",
+    "pronunciation": "they say ends of week instead of weekends",
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "They",
+    "spanish": "Ellas",
+    "pronunciation": null,
+    "comment": "feminine & plural",
+    "formLabel": "feminine plural",
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "are",
+    "spanish": "Somos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "We",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "They",
+    "spanish": "Ellos",
+    "pronunciation": null,
+    "comment": "masculine & plural",
+    "formLabel": "masculine plural",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "study",
+    "spanish": "Estudian",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "They",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "speak",
+    "spanish": "Hablan",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "They",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "How much",
+    "spanish": "cuánto",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "How much",
+    "spanish": "cuánta",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Some",
+    "spanish": "Unas",
+    "pronunciation": null,
+    "comment": "feminine",
+    "formLabel": "feminine",
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Some",
+    "spanish": "Unos",
+    "pronunciation": null,
+    "comment": "masculine",
+    "formLabel": "masculine",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Universities",
+    "spanish": "Universidades",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "speak",
+    "spanish": "Hablamos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "We",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "A lot",
+    "spanish": "Muchas",
+    "pronunciation": null,
+    "comment": "plural & feminine e.g. Muchas chicas",
+    "formLabel": "feminine plural",
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "A lot",
+    "spanish": "Muchos",
+    "pronunciation": null,
+    "comment": "plural & masculine e.g. Muchos libros",
+    "formLabel": "masculine plural",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "A lot",
+    "spanish": "Mucha",
+    "pronunciation": null,
+    "comment": "singular & feminine e.g. Mucha lluvia",
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Shoes",
+    "spanish": "Zapatos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "use",
+    "spanish": "Usamos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "We",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "need",
+    "spanish": "Necesitamos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "We",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Trousers",
+    "spanish": "Pantal ó n Pantalones",
+    "pronunciation": "Single Pair",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "These",
+    "spanish": "Estos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "m",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "use",
+    "spanish": "Usan",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "They",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "My",
+    "spanish": "Mis",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "plural",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "You r",
+    "spanish": "Tus",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "plural",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Your",
+    "spanish": "Sus",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "formal & plural",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "need",
+    "spanish": "Necesitan",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "They",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "date",
+    "spanish": "Cita",
+    "pronunciation": null,
+    "comment": "Romantic",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Girl",
+    "spanish": "chico",
+    "pronunciation": null,
+    "comment": "Not niño /a",
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Girl",
+    "spanish": "chica",
+    "pronunciation": null,
+    "comment": "Not niño /a",
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Tonight",
+    "spanish": "Esta noche",
+    "pronunciation": "they say this night",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "We buy",
+    "spanish": "Compramos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To watch",
+    "spanish": "Ver",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Pink",
+    "spanish": "Rosa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "How are you?",
+    "spanish": "¿Cómo está usted ?",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "Formal",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Nearby",
+    "spanish": "Cerca",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To",
+    "spanish": "A or Para *",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To t ravel",
+    "spanish": "Viajar",
+    "pronunciation": "v ee-ah- har",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Go",
+    "spanish": "Ir",
+    "pronunciation": "ear",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Stations",
+    "spanish": "Estaciones",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Station",
+    "spanish": "Estación",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Park",
+    "spanish": "Parque",
+    "pronunciation": "par-kay",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Coffee Shop",
+    "spanish": "Café",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "are",
+    "spanish": "Estamos",
+    "pronunciation": null,
+    "comment": "imp.",
+    "formLabel": "We",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Door",
+    "spanish": "Puerta",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "are",
+    "spanish": "Están",
+    "pronunciation": null,
+    "comment": "imp.",
+    "formLabel": "They",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Next to",
+    "spanish": "Lado",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Far",
+    "spanish": "Lejos",
+    "pronunciation": "lay-hose",
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "From",
+    "spanish": "De",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Stop",
+    "spanish": "Parada",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To t ake",
+    "spanish": "Tomar",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Underground",
+    "spanish": "Metro",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "From the",
+    "spanish": "Del",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Beach",
+    "spanish": "Playa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Newspaper",
+    "spanish": "Periódico",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Walk",
+    "spanish": "Caminar",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "We eat",
+    "spanish": "Comemos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "We want",
+    "spanish": "Queremos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "We read",
+    "spanish": "Leemos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "We live",
+    "spanish": "Vivimos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "We write",
+    "spanish": "Escribimos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Evening",
+    "spanish": "Tarde",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Chicken",
+    "spanish": "Pollo",
+    "pronunciation": "Poy-o",
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Rice",
+    "spanish": "Arroz",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Food",
+    "spanish": "Comida",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "It’s great",
+    "spanish": "Québueno",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Good",
+    "spanish": "Buenoo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Good",
+    "spanish": "Buenoa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "eat",
+    "spanish": "Comen",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "They",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "want",
+    "spanish": "Quieren",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "They",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Summer",
+    "spanish": "Verano",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "write",
+    "spanish": "Escriben",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "They",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To o pen",
+    "spanish": "Abrir",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "read",
+    "spanish": "Leen",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "They",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "live",
+    "spanish": "Viven",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "They",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Together",
+    "spanish": "Juntas",
+    "pronunciation": "hunt- os",
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Hungry",
+    "spanish": "Hambrinetoo",
+    "pronunciation": "am -bree- en -toe",
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Hungry",
+    "spanish": "Hambrinetoa",
+    "pronunciation": "am -bree- en -toe",
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Fries",
+    "spanish": "Patatas fritas",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Only",
+    "spanish": "Soloo",
+    "pronunciation": "Sol-o",
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Only",
+    "spanish": "Soloa",
+    "pronunciation": "Sol-o",
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "I don’t know",
+    "spanish": "Nosé",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Healthy",
+    "spanish": "Saludable",
+    "pronunciation": "Salu-dab-ley",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "travel",
+    "spanish": "Viajan",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "They",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "buy",
+    "spanish": "Compro",
+    "pronunciation": null,
+    "comment": "I",
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "buy",
+    "spanish": "Compramos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "We",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "travels",
+    "spanish": "Viaja",
+    "pronunciation": null,
+    "comment": "She",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "work",
+    "spanish": "Trabajan",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "They",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "walk",
+    "spanish": "Caminas",
+    "pronunciation": null,
+    "comment": "You",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "walks",
+    "spanish": "Camina",
+    "pronunciation": null,
+    "comment": "She",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "pays",
+    "spanish": "Paga",
+    "pronunciation": null,
+    "comment": "She",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "drink",
+    "spanish": "Bebemos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "We",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "drink",
+    "spanish": "Beben",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "They",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "learn",
+    "spanish": "Aprendamos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "We",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "learn",
+    "spanish": "Aprenden",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "They",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "write",
+    "spanish": "Escribes",
+    "pronunciation": null,
+    "comment": "You",
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "write",
+    "spanish": "Escribimos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "We",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "opens",
+    "spanish": "Abre",
+    "pronunciation": null,
+    "comment": "She",
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "open",
+    "spanish": "Abren",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "They",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To live",
+    "spanish": "Vivir",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": "Live"
+  },
+  {
+    "english": "open",
+    "spanish": "Abro",
+    "pronunciation": null,
+    "comment": "I",
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "open",
+    "spanish": "Abrimos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "We",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To run",
+    "spanish": "Correr",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "run",
+    "spanish": "Corres",
+    "pronunciation": null,
+    "comment": "You",
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To watch or To look",
+    "spanish": "Mirar",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "watch",
+    "spanish": "Miran",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "They",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To receive",
+    "spanish": "Recibir",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "receive",
+    "spanish": "Recibimos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "We",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To swim",
+    "spanish": "Nadar",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": "Swim ming"
+  },
+  {
+    "english": "swims",
+    "spanish": "Nada",
+    "pronunciation": null,
+    "comment": "She",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "swim",
+    "spanish": "Nadamos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "We",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To sell",
+    "spanish": "Vender",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": "Sell"
+  },
+  {
+    "english": "sell",
+    "spanish": "Vendes",
+    "pronunciation": null,
+    "comment": "You",
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "open",
+    "spanish": "Abres",
+    "pronunciation": null,
+    "comment": "You",
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To search",
+    "spanish": "Buscar",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "searches",
+    "spanish": "Busca",
+    "pronunciation": null,
+    "comment": "She",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "search",
+    "spanish": "Buscan",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "They",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "search",
+    "spanish": "Busco",
+    "pronunciation": null,
+    "comment": "I",
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "buy",
+    "spanish": "Compran",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "They",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Job",
+    "spanish": "Trabajo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Go",
+    "spanish": "Van",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Sh o pping",
+    "spanish": "De compras",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Beans",
+    "spanish": "Frijoles",
+    "pronunciation": "Free- ho -Les",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "looks",
+    "spanish": "Mira",
+    "pronunciation": null,
+    "comment": "She",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Looking",
+    "spanish": "Mirando",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "takes",
+    "spanish": "Toma",
+    "pronunciation": null,
+    "comment": "She",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "work",
+    "spanish": "Trabajamos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "We",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "take",
+    "spanish": "Tomamos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "We",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Same",
+    "spanish": "Mismoo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Same",
+    "spanish": "Mismoa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "leave",
+    "spanish": "Salen",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "They",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To leave",
+    "spanish": "Salir",
+    "pronunciation": "Sa-leer",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "leave",
+    "spanish": "Salimos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "We",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Finishes",
+    "spanish": "Termina",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "At four",
+    "spanish": "Alascuatro",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "T o draw",
+    "spanish": "Dibujar",
+    "pronunciation": "dee-boo- har",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "think",
+    "spanish": "Creo",
+    "pronunciation": null,
+    "comment": "I",
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "I don’t like",
+    "spanish": "Nomegusta",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Pool",
+    "spanish": "Piscina",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Music",
+    "spanish": "Música",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To Play",
+    "spanish": "Jugar",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "A game or sport",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "I like",
+    "spanish": "Megusta",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "I love",
+    "spanish": "Meencanta",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Something",
+    "spanish": "Algo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Cake",
+    "spanish": "Pastel",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Chocolate",
+    "spanish": "Chocolate",
+    "pronunciation": "ch oh-koh-lah-teh",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Because",
+    "spanish": "Porque",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "You l ike",
+    "spanish": "Tegusta",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Night",
+    "spanish": "Noche",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Often",
+    "spanish": "Amenudo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "You go",
+    "spanish": "Vas",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": "You are going"
+  },
+  {
+    "english": "Cinema",
+    "spanish": "Cine",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "All",
+    "spanish": "Todos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "masculine plural",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": "Every"
+  },
+  {
+    "english": "g oes",
+    "spanish": "Va",
+    "pronunciation": null,
+    "comment": "She",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": "Is going"
+  },
+  {
+    "english": "g o",
+    "spanish": "Voy",
+    "pronunciation": null,
+    "comment": "I",
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Hour",
+    "spanish": "Hora",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Eleven",
+    "spanish": "Once",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Twelve",
+    "spanish": "Doce",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "go",
+    "spanish": "Van",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "They",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "What time?",
+    "spanish": "Aquéhora",
+    "pronunciation": "at what hour",
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Everyday",
+    "spanish": "Todos los días * días is masculine*",
+    "pronunciation": "All the days",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "All day",
+    "spanish": "Todo el día",
+    "pronunciation": "All the day",
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "go",
+    "spanish": "Vamos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "We",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "I shower",
+    "spanish": "Meducho",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "I get up",
+    "spanish": "Melevanto",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "You shower",
+    "spanish": "Teduchas",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "He",
+    "spanish": "Seducha",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "You get up",
+    "spanish": "Televantas",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "O ’Clock",
+    "spanish": "Enpunto",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Half an hour",
+    "spanish": "Horaamedia",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "He",
+    "spanish": "Selevanta",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Kitchen",
+    "spanish": "Cocina",
+    "pronunciation": "co. -see-nah",
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Bed",
+    "spanish": "Cama",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Fridge",
+    "spanish": "Nevera",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Bedroom",
+    "spanish": "Dormitorio",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Modern",
+    "spanish": "Moderna",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Room",
+    "spanish": "Sala",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Clock",
+    "spanish": "Reloj",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Window",
+    "spanish": "Ventana",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "R oom",
+    "spanish": "Habitacion",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To paint",
+    "spanish": "Pintar",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Chair",
+    "spanish": "Silla",
+    "pronunciation": "see-yah",
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Book case",
+    "spanish": "Estanteria",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "On",
+    "spanish": "Sobre",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Those",
+    "spanish": "Esas",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "f",
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To clean",
+    "spanish": "Limp iar",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Garden",
+    "spanish": "Jardín",
+    "pronunciation": "Har- deen",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Plant",
+    "spanish": "Planta",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Under",
+    "spanish": "Debajo",
+    "pronunciation": "dee-bah- jo",
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "clean",
+    "spanish": "Limpiamos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "We",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "paint",
+    "spanish": "Pintan",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "They",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Really?",
+    "spanish": "¿Enserio?",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Under the chair",
+    "spanish": "Debajo de la silla",
+    "pronunciation": "underneath of the chair",
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "clean",
+    "spanish": "Limpio",
+    "pronunciation": null,
+    "comment": "I",
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "clean",
+    "spanish": "Limpias",
+    "pronunciation": null,
+    "comment": "You",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "In front",
+    "spanish": "Enfrente",
+    "pronunciation": "en-fren-teh",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Wait",
+    "spanish": "Espere",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Those",
+    "spanish": "Esos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "m",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Where is the bathroom?",
+    "spanish": "¿Dónde está el baño ?",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Beer",
+    "spanish": "Cerveza",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "I would like",
+    "spanish": "Quisiera",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Plate",
+    "spanish": "Plato",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Fork",
+    "spanish": "Tenedor",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Knife",
+    "spanish": "Cuchillo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Spoon",
+    "spanish": "Cucha ra",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Can you",
+    "spanish": "Puede",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Bring",
+    "spanish": "Traer",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Can you bring",
+    "spanish": "Puede traer",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "White",
+    "spanish": "Blanco",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Drink",
+    "spanish": "Bebida",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Red wine",
+    "spanish": "Vino tinto",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Another",
+    "spanish": "Otro",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Soup",
+    "spanish": "Sopa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Potato",
+    "spanish": "Patata",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Deserts",
+    "spanish": "Postres",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Something",
+    "spanish": "Algo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "I don’t understand",
+    "spanish": "Noentendio",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Sport",
+    "spanish": "Depo rte",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "They pay for the drinks",
+    "spanish": "Ellos pagan las bebidas",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Drinks meun",
+    "spanish": "Menú de las bebidas",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "The grand parents",
+    "spanish": "Losabuelos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Our",
+    "spanish": "nuestro",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Our",
+    "spanish": "Nuestroa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Where does our grandfather live?",
+    "spanish": "Donde vive Nuestro abuelo",
+    "pronunciation": "Where lives our grandfather",
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "The parents",
+    "spanish": "Lospadres",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Us",
+    "spanish": "Nos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To listen",
+    "spanish": "Escuchar",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Band",
+    "spanish": "Banda",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "We like",
+    "spanish": "Nosgusta",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "The family goes …",
+    "spanish": "La familia va …",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Laura loves …",
+    "spanish": "A Laura le encantan",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "We learn",
+    "spanish": "Aprendemos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Help me",
+    "spanish": "Ayudarme",
+    "pronunciation": "ah- yoo -DAR-meh",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Task",
+    "spanish": "Tarea",
+    "pronunciation": "ta-REH-ah",
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Dinosaurs",
+    "spanish": "Dinosaurios",
+    "pronunciation": "dee- noh -sow-REE-ohs",
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "You know",
+    "spanish": "Conoces",
+    "pronunciation": "koh -NO- ses",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": "you are familiar with"
+  },
+  {
+    "english": "loves",
+    "spanish": "Leencanta",
+    "pronunciation": null,
+    "comment": "He/she /name",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Piano",
+    "spanish": "Piano",
+    "pronunciation": "pee-AH- noh",
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Play",
+    "spanish": "Tocar",
+    "pronunciation": null,
+    "comment": "an instrument",
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": "To play"
+  },
+  {
+    "english": "Husband",
+    "spanish": "Marido",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "play",
+    "spanish": "Tocamos",
+    "pronunciation": null,
+    "comment": "instrument",
+    "formLabel": "We",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "listen to",
+    "spanish": "Escuchan",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "They",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Younger",
+    "spanish": "Menor",
+    "pronunciation": "men-oar",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "My son likes pizza",
+    "spanish": "A mi hijo le gusta la pizza",
+    "pronunciation": "To my son, pizza is pleasing",
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "He",
+    "spanish": "Toca",
+    "pronunciation": null,
+    "comment": "instrument",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Guitar",
+    "spanish": "Guitarra",
+    "pronunciation": "gee-TAH-rah",
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Older",
+    "spanish": "Mayor",
+    "pronunciation": "my-your",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Can you help me?",
+    "spanish": "¿Puedes ayudarme ?",
+    "pronunciation": "PWEH-des-ah- yoo -DAR-meh",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Activity",
+    "spanish": "Actividad",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "We play",
+    "spanish": "Escuchamos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Younger",
+    "spanish": "Menores",
+    "pronunciation": "men-oar -es",
+    "comment": null,
+    "formLabel": "plural",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Older",
+    "spanish": "Mayores",
+    "pronunciation": "my-your-es",
+    "comment": null,
+    "formLabel": "plural",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "We love",
+    "spanish": "Nosencanta",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "s hopping",
+    "spanish": "decompras",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "To go",
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "close",
+    "spanish": "Cierras",
+    "pronunciation": "see-EH- ras",
+    "comment": "You",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "pay",
+    "spanish": "Pagas",
+    "pronunciation": null,
+    "comment": "You",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "In Cash",
+    "spanish": "Enefectivo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Credit Card",
+    "spanish": "Tarjeta de crédito",
+    "pronunciation": "tar- hetta",
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Card",
+    "spanish": "Tarjeta",
+    "pronunciation": "tar- hetta",
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Price",
+    "spanish": "Precio",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "s",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "closes",
+    "spanish": "Cierra",
+    "pronunciation": "see-EH-rah",
+    "comment": "It",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Cheap",
+    "spanish": "Baratas",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "fem & plural",
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Can I",
+    "spanish": "Mepuedo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": "Am I allowed t o"
+  },
+  {
+    "english": "Expensive",
+    "spanish": "Caras",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "fem & plural",
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Size",
+    "spanish": "Talla",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "of clothes/shoes",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Changing rooms",
+    "spanish": "Probadores",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Costs",
+    "spanish": "Cuesta",
+    "pronunciation": null,
+    "comment": "singular",
+    "formLabel": "singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Cost",
+    "spanish": "Cuestan",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "plural",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Expensive",
+    "spanish": "Cara",
+    "pronunciation": null,
+    "comment": "fem & singular",
+    "formLabel": "singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "search",
+    "spanish": "Buscas",
+    "pronunciation": null,
+    "comment": "You",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To Cook",
+    "spanish": "Cocinar",
+    "pronunciation": "co-sin-are",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Strange",
+    "spanish": "Extrañoo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Strange",
+    "spanish": "Extrañoa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Motorbike",
+    "spanish": "Motocicleta",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Keys",
+    "spanish": "Llaves",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "search",
+    "spanish": "Buscamos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "We",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Surprised",
+    "spanish": "Sorprendidos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "plural",
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Nervous",
+    "spanish": "Nervioso",
+    "pronunciation": "ner -VYOH-so",
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Happy",
+    "spanish": "Felices",
+    "pronunciation": "feh-LEE-sess",
+    "comment": null,
+    "formLabel": "plural",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Sad",
+    "spanish": "Tristes",
+    "pronunciation": "TREES- tess",
+    "comment": null,
+    "formLabel": "plural",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "I have to",
+    "spanish": "Tengo que",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": "I need to"
+  },
+  {
+    "english": "Smelly",
+    "spanish": "Apestoso",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Cheers",
+    "spanish": "Salud",
+    "pronunciation": "sah-lood",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Handsome",
+    "spanish": "Guapo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Handsome",
+    "spanish": "Guapa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Coffee Shop",
+    "spanish": "Cafetería",
+    "pronunciation": "kah -feh- teh -REE-ah",
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Black",
+    "spanish": "Negro",
+    "pronunciation": "Neg like egg",
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Purple",
+    "spanish": "Morado",
+    "pronunciation": "More-adder",
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Can I pay contactless ?",
+    "spanish": "¿Puedo pagar sin contacto ?",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Do you sell",
+    "spanish": "Vende",
+    "pronunciation": "Singular Person",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Stamps",
+    "spanish": "Sellos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Pig",
+    "spanish": "Cerdo",
+    "pronunciation": null,
+    "comment": "Animal",
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Spain",
+    "spanish": "THER-doh",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Latin America",
+    "spanish": "SER-doh",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Pig",
+    "spanish": "Cochino",
+    "pronunciation": "koh -CHEE-no",
+    "comment": "Insult",
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Weather",
+    "spanish": "Tiempo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Shopping Bag",
+    "spanish": "Bolsa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": "Utility Bag"
+  },
+  {
+    "english": "Purse",
+    "spanish": "Bolso",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Egg",
+    "spanish": "Huevo",
+    "pronunciation": "WEH- voh",
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Sausage",
+    "spanish": "Salchichas",
+    "pronunciation": "sal -CHEE-cha",
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Bacon",
+    "spanish": "Tocino",
+    "pronunciation": "to e -SEE- noh",
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Ice",
+    "spanish": "Hielo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Icecream",
+    "spanish": "Helado",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "The weather is shit",
+    "spanish": "El tiempo es tá mi erda",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Stemmed Glass",
+    "spanish": "Copa",
+    "pronunciation": "Ko-PAH",
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Open",
+    "spanish": "Abiertoo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Open",
+    "spanish": "Abiertoa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "I ncredible",
+    "spanish": "Incre íble",
+    "pronunciation": "in- kre -ee -blay",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Funny",
+    "spanish": "Graciosoo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Funny",
+    "spanish": "Graciosoa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Marvellous",
+    "spanish": "Maravillosoo",
+    "pronunciation": "marra -vee- yo -so",
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Marvellous",
+    "spanish": "Maravillosoa",
+    "pronunciation": "marra -vee- yo -so",
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Garlic",
+    "spanish": "Ajo",
+    "pronunciation": "Ah- ho",
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Rain",
+    "spanish": "Lluvia",
+    "pronunciation": "You-vee-ah",
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Down",
+    "spanish": "Abajo",
+    "pronunciation": "Ah-bah- ho",
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Lightning",
+    "spanish": "Relámpagos",
+    "pronunciation": "reh- lahm -pa- gos",
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "How do you say this in spanish ?",
+    "spanish": "¿Cómo se dice esto en español ?",
+    "pronunciation": "dee- seh",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Thunder",
+    "spanish": "Trueno",
+    "pronunciation": "Troo -eh-no",
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Lazy",
+    "spanish": "perezosoo",
+    "pronunciation": "pe-reh-SO",
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Lazy",
+    "spanish": "perezosoa",
+    "pronunciation": "pe-reh-SO",
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Greedy",
+    "spanish": "Glotón",
+    "pronunciation": "glo-ton",
+    "comment": "for food",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Grumpy",
+    "spanish": "Gruñona",
+    "pronunciation": "Grun-yon-ah",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Pineapple",
+    "spanish": "Piña",
+    "pronunciation": "Pee- nyah",
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Fish",
+    "spanish": "Pez",
+    "pronunciation": "Pess or Peth",
+    "comment": "alive",
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Dolphin",
+    "spanish": "Delfín",
+    "pronunciation": "del-feen",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Spider",
+    "spanish": "Araña",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Headache",
+    "spanish": "Dolor de cabeza",
+    "pronunciation": "doh-lore de ka-be-za",
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Many",
+    "spanish": "Mucho",
+    "pronunciation": null,
+    "comment": "singular & masculine e.g. mucho dinero",
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Young Lady",
+    "spanish": "Señorita",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "evening",
+    "spanish": "Buenas tardes",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "fine",
+    "spanish": "Bien",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "ok",
+    "spanish": "Bien",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Mrs",
+    "spanish": "Señora",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To be",
+    "spanish": "Ser",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Shortest",
+    "spanish": "Bajoo",
+    "pronunciation": "ba -ha/ ho",
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Shortest",
+    "spanish": "Bajoa",
+    "pronunciation": "ba -ha/ ho",
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Guy",
+    "spanish": "chico",
+    "pronunciation": null,
+    "comment": "Not niño /a",
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Guy",
+    "spanish": "chica",
+    "pronunciation": null,
+    "comment": "Not niño /a",
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To see",
+    "spanish": "Ver",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Close",
+    "spanish": "Cerca",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To go",
+    "spanish": "Ir",
+    "pronunciation": "ear",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Side",
+    "spanish": "Lado",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Subway",
+    "spanish": "Metro",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "To walk",
+    "spanish": "Caminar",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "afternoon",
+    "spanish": "Tarde",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "late",
+    "spanish": "Tarde",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "look",
+    "spanish": "Miran",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "They",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "look for",
+    "spanish": "Buscar",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "looks for",
+    "spanish": "Busca",
+    "pronunciation": null,
+    "comment": "She",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "look for",
+    "spanish": "Buscan",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "They",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "look for",
+    "spanish": "Busco",
+    "pronunciation": null,
+    "comment": "I",
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "watches",
+    "spanish": "Mira",
+    "pronunciation": null,
+    "comment": "She",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Drawing",
+    "spanish": "Dibujar",
+    "pronunciation": "dee-boo- har",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "she showers",
+    "spanish": "Seducha",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "she gets up",
+    "spanish": "Selevanta",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Living room",
+    "spanish": "Sala",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "On top of",
+    "spanish": "Sobre",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Dish",
+    "spanish": "Plato",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Course",
+    "spanish": "Plato",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "anything",
+    "spanish": "Algo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "ours",
+    "spanish": "nuestro",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "ours",
+    "spanish": "Nuestroa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Homework",
+    "spanish": "Tarea",
+    "pronunciation": "ta-REH-ah",
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "little",
+    "spanish": "Menor",
+    "pronunciation": "men-oar",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "youngest",
+    "spanish": "Menor",
+    "pronunciation": "men-oar",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Lesser",
+    "spanish": "Menor",
+    "pronunciation": "men-oar",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Smaller",
+    "spanish": "Menor",
+    "pronunciation": "men-oar",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "she plays",
+    "spanish": "Toca",
+    "pronunciation": null,
+    "comment": "instrument",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Adult",
+    "spanish": "Mayor",
+    "pronunciation": "my-your",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Grown Up",
+    "spanish": "Mayor",
+    "pronunciation": "my-your",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Lesser",
+    "spanish": "Menores",
+    "pronunciation": "men-oar -es",
+    "comment": null,
+    "formLabel": "plural",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Smaller",
+    "spanish": "Menores",
+    "pronunciation": "men-oar -es",
+    "comment": null,
+    "formLabel": "plural",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Adult",
+    "spanish": "Mayores",
+    "pronunciation": "my-your-es",
+    "comment": null,
+    "formLabel": "plural",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Grown Up",
+    "spanish": "Mayores",
+    "pronunciation": "my-your-es",
+    "comment": null,
+    "formLabel": "plural",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "s",
+    "spanish": "Talla",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "of clothes/shoes",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "look for",
+    "spanish": "Buscas",
+    "pronunciation": null,
+    "comment": "You",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "look for",
+    "spanish": "Buscamos",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "We",
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Bless you",
+    "spanish": "Salud",
+    "pronunciation": "sah-lood",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Health",
+    "spanish": "Salud",
+    "pronunciation": "sah-lood",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Beautiful",
+    "spanish": "Guapo",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Beautiful",
+    "spanish": "Guapa",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "masculine singular",
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Handbag",
+    "spanish": "Bolso",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Teacher",
+    "spanish": "Maestra",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Surprised",
+    "spanish": "Sorprendida",
+    "pronunciation": null,
+    "comment": "singular",
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "How many",
+    "spanish": "Cuántas",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "We",
+    "spanish": "os",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Together",
+    "spanish": "os",
+    "pronunciation": "hunt- os",
+    "comment": null,
+    "formLabel": null,
+    "gender": "masculine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Sh o pping",
+    "spanish": "Compras *",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "All",
+    "spanish": "Todas",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "feminine plural",
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": "Every"
+  },
+  {
+    "english": "Another",
+    "spanish": "otra",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Size",
+    "spanish": "s",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "of clothes/shoes",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Surprised",
+    "spanish": "Sorprendidas",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "plural",
+    "gender": "feminine",
+    "number": "plural",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Purple",
+    "spanish": "Morada",
+    "pronunciation": "More-adder",
+    "comment": null,
+    "formLabel": "feminine singular",
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Greedy",
+    "spanish": "Glotona",
+    "pronunciation": "glo-ton",
+    "comment": "for food",
+    "formLabel": null,
+    "gender": "feminine",
+    "number": "singular",
+    "acceptedAnswers": null
+  },
+  {
+    "english": "Grumpy",
+    "spanish": "Gruñón",
+    "pronunciation": "Grun-yon-ah",
+    "comment": null,
+    "formLabel": null,
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  },
+  {
+    "english": "s",
+    "spanish": "s",
+    "pronunciation": null,
+    "comment": null,
+    "formLabel": "of clothes/shoes",
+    "gender": null,
+    "number": null,
+    "acceptedAnswers": null
+  }
+]

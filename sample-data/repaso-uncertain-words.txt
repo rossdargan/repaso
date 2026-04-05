@@ -1,0 +1,9 @@
+Or => O | reason: too short
+And => Y | reason: too short
+7 => S iete | reason: too short
+8 => Ocho | reason: too short
+6 => Seis | reason: too short
+0 => Cero | reason: too short
+4 => Cuatro | reason: too short
+5 => Cinco | reason: too short
+9 => Nueve | reason: too short

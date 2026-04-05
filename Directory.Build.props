@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <LangVersion>preview</LangVersion>
+    <CodeAnalysisTreatWarningsAsErrors>false</CodeAnalysisTreatWarningsAsErrors>
+  </PropertyGroup>
+</Project>

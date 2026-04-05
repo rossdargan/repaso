@@ -1,0 +1,12 @@
+services:
+  repaso:
+    image: ghcr.io/rossdargan/repaso:latest
+    container_name: repaso
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data
+      - ./uploads:/app/wwwroot/uploads
