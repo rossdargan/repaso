@@ -14,41 +14,28 @@ public class QuestionSelectorServiceTests
         await using var db = CreateDb();
         var general = new Category { Name = "General" };
         db.Categories.Add(general);
-        await db.SaveChangesAsync();
 
-        var easyWord = new WordEntry
+        var easyWord = CreateWord(general, "cat", "gato");
+        easyWord.Progress = new WordProgress
         {
-            English = "cat",
-            Spanish = "gato",
-            NormalizedEnglish = "cat",
-            NormalizedSpanish = "gato",
-            CategoryId = general.Id,
-            Progress = new WordProgress
-            {
-                AttemptsCount = 5,
-                ExactCorrectCount = 5,
-                CurrentStreak = 5,
-                PriorityScore = 1,
-                LastSeenAtUtc = DateTimeOffset.UtcNow,
-            },
+            WordEntryId = easyWord.Id,
+            AttemptsCount = 5,
+            ExactCorrectCount = 5,
+            CurrentStreak = 5,
+            PriorityScore = 1,
+            LastSeenAtUtc = DateTimeOffset.UtcNow,
         };
 
-        var hardWord = new WordEntry
+        var hardWord = CreateWord(general, "window", "ventana");
+        hardWord.Progress = new WordProgress
         {
-            English = "window",
-            Spanish = "ventana",
-            NormalizedEnglish = "window",
-            NormalizedSpanish = "ventana",
-            CategoryId = general.Id,
-            Progress = new WordProgress
-            {
-                AttemptsCount = 6,
-                WrongCount = 4,
-                TypoSavedCount = 1,
-                PriorityScore = 10,
-                LastSeenAtUtc = DateTimeOffset.UtcNow.AddDays(-2),
-                LastWrongAtUtc = DateTimeOffset.UtcNow,
-            },
+            WordEntryId = hardWord.Id,
+            AttemptsCount = 6,
+            WrongCount = 4,
+            TypoSavedCount = 1,
+            PriorityScore = 10,
+            LastSeenAtUtc = DateTimeOffset.UtcNow.AddDays(-2),
+            LastWrongAtUtc = DateTimeOffset.UtcNow,
         };
 
         db.WordEntries.AddRange(easyWord, hardWord);
@@ -77,31 +64,15 @@ public class QuestionSelectorServiceTests
         var animals = new Category { Name = "Animals" };
         var travel = new Category { Name = "Travel" };
         db.Categories.AddRange(animals, travel);
-        await db.SaveChangesAsync();
 
-        var animalWord = new WordEntry
-        {
-            English = "dog",
-            Spanish = "perro",
-            NormalizedEnglish = "dog",
-            NormalizedSpanish = "perro",
-            CategoryId = animals.Id,
-        };
-
-        var travelWord = new WordEntry
-        {
-            English = "station",
-            Spanish = "estación",
-            NormalizedEnglish = "station",
-            NormalizedSpanish = "estacion",
-            CategoryId = travel.Id,
-        };
+        var animalWord = CreateWord(animals, "dog", "perro");
+        var travelWord = CreateWord(travel, "station", "estación");
 
         db.WordEntries.AddRange(animalWord, travelWord);
         await db.SaveChangesAsync();
 
         var selector = new QuestionSelectorService(db);
-        var question = await selector.GetNextQuestionAsync(new[] { travel.Id }, CancellationToken.None);
+        var question = await selector.GetNextQuestionAsync([travel.Id], CancellationToken.None);
 
         question.Should().NotBeNull();
         question!.WordId.Should().Be(travelWord.Id);
@@ -116,5 +87,43 @@ public class QuestionSelectorServiceTests
             .Options;
 
         return new AppDbContext(options);
+    }
+
+    private static WordEntry CreateWord(Category category, string english, string spanish)
+    {
+        var manualImport = new VocabularyImport
+        {
+            FileName = "test-import",
+            OriginalFileName = "test-import",
+            Status = ImportStatus.Completed,
+        };
+
+        return new WordEntry
+        {
+            VocabularyImport = manualImport,
+            Category = category,
+            CategoryId = category.Id,
+            AllowReverse = true,
+            Gender = GenderType.NotApplicable,
+            Number = NumberType.NotApplicable,
+            State = StateType.NotApplicable,
+            Variants =
+            [
+                new WordVariant
+                {
+                    Language = AnswerLanguage.English,
+                    Text = english,
+                    NormalizedText = english,
+                    SortOrder = 0,
+                },
+                new WordVariant
+                {
+                    Language = AnswerLanguage.Spanish,
+                    Text = spanish,
+                    NormalizedText = spanish,
+                    SortOrder = 0,
+                },
+            ],
+        };
     }
 }

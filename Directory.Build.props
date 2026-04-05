@@ -1,6 +1,9 @@
 <Project>
   <PropertyGroup>
     <LangVersion>preview</LangVersion>
-    <CodeAnalysisTreatWarningsAsErrors>false</CodeAnalysisTreatWarningsAsErrors>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <CodeAnalysisTreatWarningsAsErrors>true</CodeAnalysisTreatWarningsAsErrors>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>$(NoWarn);1591;NU1903;MA0051;SA1011;SA1107;SA1501;SA1502;SA1513;SA1518;SA1600;SA1602;MA0016</NoWarn>
   </PropertyGroup>
 </Project>
